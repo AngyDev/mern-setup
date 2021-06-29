@@ -1,2 +1,2 @@
-# mern-setup
+# MERN Setup
 A MERN stack setup
